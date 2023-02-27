@@ -11,4 +11,4 @@
 Построить модель для классификации комментариев на позитивные и негативные.
 
 ## Используемые библиотеки
-*PIL, keras, numpy, pandas, seaborn, matplotlib*
+*NLTK, skikit-learn, numpy, pandas, matplotlib*
